@@ -1,3 +1,7 @@
+## Fork is used and supported by MarketsCombined
+
+[Markets Combined, compare stocks and cryptocurrencies prices](https://marketscombined.com/). MarketsCombined is a smart website which helps you make better decisions.
+
 # Attila
 
 A content focused responsive theme for [Ghost](http://github.com/tryghost/ghost/).
